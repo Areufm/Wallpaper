@@ -1,0 +1,39 @@
+# 忽略IDE/编辑器生成的文件
+.vscode/
+.idea/
+.hbuilderx/
+
+# 忽略编译输出文件
+/dist/
+/build/
+
+# 忽略依赖管理工具生成的文件
+/node_modules/
+/yarn.lock
+/package-lock.json
+uni_modules/
+unpackage/
+
+
+
+# 忽略日志文件
+/logs/
+
+# 忽略临时文件
+.tmp/
+.temp/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略敏感配置文件
+.env
+
+# 忽略备份文件
+*.bak
+*.swp
+*.swo
+
+# 忽略其他自定义规则
+# ...
