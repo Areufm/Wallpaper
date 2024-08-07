@@ -1,4 +1,6 @@
 # Wallpaper
-A personal wallpaper platform built using uniapp 
 
-点击分支切换vscode版本及Hbuilder X 版本
+A personal wallpaper platform built using uniapp
+
+默认 main 分支为 Hbuilder X 版本
+可点击分支切换 vscode 版本
